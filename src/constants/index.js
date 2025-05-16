@@ -46,7 +46,7 @@ export const PROJECTS = [
     image: project1,
     description:
       "A fully functional ed-tech website with features like video lectures/courses, generative video solutions/explanation and AI integrated Whiteboard.",
-    technologies: ["HTML", "CSS", "Flask", "Python"]
+    technologies: ["HTML", "CSS", "Bootstrap", "Flask", "Python"]
   },
   {
     title: "CourtClerk",
